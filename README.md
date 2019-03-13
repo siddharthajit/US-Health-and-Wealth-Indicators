@@ -1,7 +1,9 @@
 
 # Exploring-Health-and-Wealth
 
-The relationship between the factors of health and income is a widely debated and discussed topic today. The higher a person’s income, higher is the chance of that person being less healthy and premature death. Improving the income of a person in a family is one of the ways that is proposed to improve their health. In order to substantiate this claim, proper research is needed that shows if there exists a definitive relation between money and health. 
+The relationship between the factors of health and income is a widely discussed. In this notebook, we try to explore if there is a signifcant correleation between the health and wealth indicators of US Population. In order to do the analysis, a point estimate of income is developed at the county level after merging and summarizing from various data sources. Further, the health data statistics at the county level is acquired from public databases. Finally, these datasets are merged to form the final python dataframe.
+
+The hypothesis is that people who earn lower income are at greater risk of poor health. The analysis supports the initial hypothesis
 
 ## Data Sources
  * [IRS Income and Tax Data](https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-zip-code-data-soi)
