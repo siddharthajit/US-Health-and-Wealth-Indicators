@@ -1,8 +1,3 @@
-# Project 1, Team 2
-by Neehar Yalamarti, Siddharth Ajit, Devarsh Jhaveri and Amrita Veerabagu
-
-## Final Report FileName
- * Team2_Report.pdf
 
 ## Data Sources
  * [IRS Income and Tax Data](https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-zip-code-data-soi)
