@@ -14,6 +14,6 @@ The relationship between the factors of health and income is a widely debated an
  * Merged+with+health+and+after.ipynb
  * USA_plotly_health_income.ipynb
  * Modelling.ipynb 
->>>>>>> 7534df86acff17598d1b662218a14814e28863a3
+
 
 This project aims to explore that relationship further through various analysis from different data sets based on county, states in the US, and a final report is presented with findings.
